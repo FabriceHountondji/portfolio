@@ -1,0 +1,15 @@
+npm create vite@latest portfolio -- --template react
+
+Local:   http://localhost:5173/
+
+#############################################################################
+npm install -D @tailwindcss/cli tailwindcss postcss autoprefixer
+dir node_modules\.bin
+.\node_modules\.bin\tailwindcss init -p
+#############################################################################
+
+
+npm install -D tailwindcss@3.4.17 postcss autoprefixer
+
+npx tailwindcss init -p
+

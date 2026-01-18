@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.18"
+  },
+  "name": "portfolio_1",
+  "version": "1.0.0",
+  "description": "My first portfolio",
+  "main": "portfolio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
