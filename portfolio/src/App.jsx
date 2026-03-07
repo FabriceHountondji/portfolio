@@ -85,7 +85,7 @@ export default function Portfolio() {
               <p className="text-sm text-gray-500 mb-4 font-medium">Été 2024 (4 mois)</p>
               <ul className="grid grid-cols-1 md:grid-cols-2 gap-4 text-gray-600 text-sm">
                 <li className="flex items-start gap-2">✅ Analyse, nettoyage et vérification via SQL Server & MySQL</li>
-                <li className="flex items-start gap-2">📈 Stratégies d'augmentation du chiffre d'affaires de 5%</li>
+                <li className="flex items-start gap-2">📈 Stratégies d'augmentation du chiffre d'affaires</li>
                 <li className="flex items-start gap-2">📊 Tableaux de bord Power BI (Analyse comptable temps réel)</li>
                 <li className="flex items-start gap-2">⚙️ Gestion de projet avec Jira pour suivre l'avancement</li>
                 <li className="flex items-start gap-2">🎯 Recueil et analyse des besoins utilisateurs finaux</li>
@@ -137,7 +137,7 @@ export default function Portfolio() {
             <div className="bg-white p-5 rounded-lg shadow-sm border border-gray-100">
               <h4 className="font-bold text-blue-600 mb-3 underline decoration-2 underline-offset-4">Technologies</h4>
               <div className="flex flex-wrap">
-                {["Docker", "Laravel", "Airflow", "Git", "Agile SCRUM", "UML"].map(s => <Badge key={s}>{s}</Badge>)}
+                {["Docker", "Laravel", "Airflow","Streamlit", "Git", "Agile SCRUM", "UML"].map(s => <Badge key={s}>{s}</Badge>)}
               </div>
             </div>
           </div>
