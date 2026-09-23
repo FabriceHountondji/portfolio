@@ -1,0 +1,16 @@
+airport_code,icao_code,airport_name,city,country,latitude,longitude,timezone
+YUL,CYUL,Montréal-Trudeau,Montréal,Canada,45.4706,-73.7408,America/Toronto
+YYZ,CYYZ,Toronto Pearson,Toronto,Canada,43.6777,-79.6248,America/Toronto
+YVR,CYVR,Vancouver International,Vancouver,Canada,49.1947,-123.1792,America/Vancouver
+YYC,CYYC,Calgary International,Calgary,Canada,51.1315,-114.0106,America/Edmonton
+YOW,CYOW,Ottawa Macdonald-Cartier,Ottawa,Canada,45.3225,-75.6692,America/Toronto
+YQB,CYQB,Québec Jean-Lesage,Québec,Canada,46.7911,-71.3933,America/Toronto
+YHZ,CYHZ,Halifax Stanfield,Halifax,Canada,44.8808,-63.5086,America/Halifax
+YEG,CYEG,Edmonton International,Edmonton,Canada,53.3097,-113.58,America/Edmonton
+YWG,CYWG,Winnipeg Richardson,Winnipeg,Canada,49.91,-97.2399,America/Winnipeg
+JFK,KJFK,John F. Kennedy,New York,États-Unis,40.6413,-73.7781,America/New_York
+ORD,KORD,Chicago O'Hare,Chicago,États-Unis,41.9742,-87.9073,America/Chicago
+LAX,KLAX,Los Angeles International,Los Angeles,États-Unis,33.9416,-118.4085,America/Los_Angeles
+CDG,LFPG,Paris-Charles de Gaulle,Paris,France,49.0097,2.5479,Europe/Paris
+LHR,EGLL,London Heathrow,Londres,Royaume-Uni,51.47,-0.4543,Europe/London
+CUN,MMUN,Cancún International,Cancún,Mexique,21.0365,-86.8771,America/Cancun

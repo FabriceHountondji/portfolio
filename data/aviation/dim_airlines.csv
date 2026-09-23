@@ -1,0 +1,9 @@
+airline_code,airline_name,country,alliance
+AC,Air Canada,Canada,Star Alliance
+WS,WestJet,Canada,Aucune
+PD,Porter Airlines,Canada,Aucune
+TS,Air Transat,Canada,Aucune
+F8,Flair Airlines,Canada,Aucune
+UA,United Airlines,États-Unis,Star Alliance
+DL,Delta Air Lines,États-Unis,SkyTeam
+AF,Air France,France,SkyTeam
