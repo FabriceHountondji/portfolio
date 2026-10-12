@@ -8,8 +8,10 @@ de ma plateforme aéronautique.
 
 ```
 portfolio-fabrice/
-├── index.html                  Page unique du portfolio
+├── index.html                  Page d'accueil du portfolio
+├── olist.html                  Étude de cas Olist (Microsoft Fabric et Power BI)
 ├── assets/
+│   ├── projets/olist/          Captures et PDF du rapport Power BI
 │   ├── css/style.css           Styles (palette, mise en page, responsive)
 │   ├── js/main.js              Menu mobile et lien actif
 │   ├── js/datalab.js           Explorateur CSV, tableau de bord, notebook
